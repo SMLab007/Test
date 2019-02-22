@@ -12,3 +12,9 @@ Program code:
     return;  
 ### Test level 3
 [Test site](http://www.ria.ru)
+
+    String 1
+    String 2
+    String 3
+    String 4
+    String 5
