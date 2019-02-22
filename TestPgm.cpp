@@ -11,3 +11,4 @@ int newProc~ForTest(char ch, string test_string)
   return iret;
 }
 
+// Add new line 
